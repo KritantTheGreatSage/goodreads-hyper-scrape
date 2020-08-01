@@ -8,3 +8,6 @@ I used Spyder(Python 3.7) to run the program, along with the library of Beautifu
 -avoid writing book sequels titles
 
 This project was inspired by my fascination of wanting to know what is best rated books that I should read from suggestions of popular websites and TheGuardian.
+I will put a link here for the all book titles scraped.
+
+-Have fun ^^
