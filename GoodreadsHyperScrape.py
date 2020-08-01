@@ -9,9 +9,11 @@ from urllib.parse import quote
 def main():
 
 
-    thebooklist = open(r"C:\Users\Kritant\Desktop\Project Scrape\TheBookList.txt", "r") 
+    thebooklist = open(r"ADD ADDRESS OF BOOKLIST", "r") 
+    #e.g : thebooklist = open(r"C:\Users\Kritant\Desktop\Project Scrape\TheBookList.txt", "r") 
     
     filename = "DataSet.csv"
+     #DataSet.csv is the file that opens in Excel to see the data.
     f = open(filename, "a", encoding='utf8')
      
     headers = "title, author, rating, rcounts\n"
